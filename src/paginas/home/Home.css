@@ -1,0 +1,21 @@
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    padding-top: 5%;
+}
+
+.border {
+    border: 2px solid black;
+    width: 50%;
+    margin-left: 25%;
+    padding: 1%;
+    border-radius: 5%;
+    margin-top: 10%;
+    background-color: cornflowerblue
+}
